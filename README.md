@@ -6,7 +6,7 @@ Run without any installation
 
 2. Double click on 'invisible' (.exe file) to run script (make sure you have webcam connected with computer)
 
-3. Let the script launch live stream and capture background than enter in the frame with red cloth to get invisible.
+3. Let the script launch live stream and capture background then enter in the frame with red cloth to get invisible.
 
 How to run (Python setup):
 
