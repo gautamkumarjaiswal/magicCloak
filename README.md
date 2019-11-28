@@ -1,6 +1,14 @@
 # magicCloak
 
-How to run:
+Run without any installation
+
+1. Download .exe file from https://drive.google.com/drive/folders/1ed7nqUVBhtMXb2d8pvdqj2znPcJRvpJy?usp=sharing
+
+2. Double click to run script (make sure you have webcam connected with computer)
+
+3. Let the script launch live stream and capture background than enter in the frame with red cloth to get invisible.
+
+How to run (Python setup):
 
 1. Download complete folder and rename it to magicCloak.
 
