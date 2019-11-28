@@ -8,6 +8,8 @@ Run without any installation
 
 3. Let the script launch live stream and capture background then enter in the frame with red cloth to get invisible.
 
+4. Press 'Esc' to exit, After exit, system will automatically save output video in the same folder.
+
 How to run (Python setup):
 
 1. Download complete folder and rename it to magicCloak.
